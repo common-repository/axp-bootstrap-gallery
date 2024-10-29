@@ -1,0 +1,147 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: AXP Bootstrap Gallery\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-01-01 16:37+0000\n"
+"PO-Revision-Date: 2017-01-01 16:38+0000\n"
+"Last-Translator: glaswr <all-plays@yandex.ru>\n"
+"Language-Team: Russian\n"
+"Language: ru-RU\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10 >= 2 && "
+"n%10<=4 &&(n%100<10||n%100 >= 20)? 1 : 2)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#: axp-bootstrap-gallery.php:78
+msgid "Bootstrap Gallery"
+msgstr "Bootstrap галерея"
+
+#. Name of the plugin
+msgid "AXP Bootstrap Gallery"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://github.com/axp-dev/axp-bootstrap-gallery"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://github.com/axp-dev"
+msgstr ""
+
+#: axp-bootstrap-gallery.php:77 axp-bootstrap-gallery.php:420
+msgid "Bootstrap Gallery Settings"
+msgstr "Bootstrap Gallery настройки"
+
+#: axp-bootstrap-gallery.php:90
+msgid "Gallery settings"
+msgstr "Настройки галереи"
+
+#: axp-bootstrap-gallery.php:97
+msgid "Grid settings"
+msgstr "Настройки сетки"
+
+#: axp-bootstrap-gallery.php:104
+msgid "Gallery class"
+msgstr "Класс галереи"
+
+#: axp-bootstrap-gallery.php:110
+msgid "Wrapper class. Default bootstrap: <code>row</code>"
+msgstr "Класс для обёртки. По умолчанию в bootstrap: <code>row</code>"
+
+#: axp-bootstrap-gallery.php:116
+msgid "Item tag"
+msgstr "Тег пункта"
+
+#: axp-bootstrap-gallery.php:128
+msgid "Item class"
+msgstr "Класс пункта"
+
+#: axp-bootstrap-gallery.php:140
+msgid "Caption tag"
+msgstr "Тег заголовка"
+
+#: axp-bootstrap-gallery.php:152
+msgid "Caption class"
+msgstr "Класс заголовка"
+
+#: axp-bootstrap-gallery.php:164
+msgid "Link class"
+msgstr "Класс ссылки"
+
+#: axp-bootstrap-gallery.php:176
+msgid "Link custom parameters"
+msgstr "Дополнительные параметры ссылки"
+
+#: axp-bootstrap-gallery.php:182
+msgid "Example: <code>rel=\"prettyPhoto[gallery]</code>"
+msgstr "Пример: <code>rel=\"prettyPhoto[gallery]</code>"
+
+#: axp-bootstrap-gallery.php:188
+msgid "Image class"
+msgstr "Класс изображения"
+
+#: axp-bootstrap-gallery.php:194
+msgid "Default bootstrap: <code>img-responsive</code>"
+msgstr "По умолчанию в bootstrap: <code>img-responsive</code>"
+
+#: axp-bootstrap-gallery.php:200
+msgid "Column 1"
+msgstr "1 колонка"
+
+#: axp-bootstrap-gallery.php:212
+msgid "Column 2"
+msgstr "2 колонки"
+
+#: axp-bootstrap-gallery.php:224
+msgid "Column 3"
+msgstr "3 колонки"
+
+#: axp-bootstrap-gallery.php:236
+msgid "Column 4"
+msgstr "4 колонки"
+
+#: axp-bootstrap-gallery.php:248
+msgid "Column 5"
+msgstr "5 колонок"
+
+#: axp-bootstrap-gallery.php:260
+msgid "Column 6"
+msgstr "6 колонок"
+
+#: axp-bootstrap-gallery.php:272
+msgid "Column 7"
+msgstr "7 колонок"
+
+#: axp-bootstrap-gallery.php:284
+msgid "Column 8"
+msgstr "8 колонок"
+
+#: axp-bootstrap-gallery.php:296
+msgid "Column 9"
+msgstr "9 колонок"
+
+#: axp-bootstrap-gallery.php:422
+msgid "The plugin is absolutely free. You can support the developer."
+msgstr "Плагин абсолютно бесплатно. Вы можете поддержать разработчика."
+
+#: axp-bootstrap-gallery.php:423
+msgid "Donate"
+msgstr "Поддержать"
+
+#: axp-bootstrap-gallery.php:424
+msgid "Contact the author"
+msgstr "Связаться с автором"
+
+#: axp-bootstrap-gallery.php:425
+msgid "Other plugins by author"
+msgstr "Другие плагины от автора"
+
+#. Description of the plugin
+msgid "Adds the markup Bootstrap for gallery"
+msgstr "Плагин добавляет bootstrap разметку в галерею wordpress"
+
+#. Author of the plugin
+msgid "Alexander Pushkarev"
+msgstr "Александр Пушкарёв"

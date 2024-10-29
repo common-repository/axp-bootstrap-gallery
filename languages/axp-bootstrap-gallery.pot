@@ -1,0 +1,147 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-01-01 16:36+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#: axp-bootstrap-gallery.php:77 axp-bootstrap-gallery.php:420
+msgid "Bootstrap Gallery Settings"
+msgstr ""
+
+#: axp-bootstrap-gallery.php:78
+msgid "Bootstrap Gallery"
+msgstr ""
+
+#: axp-bootstrap-gallery.php:90
+msgid "Gallery settings"
+msgstr ""
+
+#: axp-bootstrap-gallery.php:97
+msgid "Grid settings"
+msgstr ""
+
+#: axp-bootstrap-gallery.php:104
+msgid "Gallery class"
+msgstr ""
+
+#: axp-bootstrap-gallery.php:110
+msgid "Wrapper class. Default bootstrap: <code>row</code>"
+msgstr ""
+
+#: axp-bootstrap-gallery.php:116
+msgid "Item tag"
+msgstr ""
+
+#: axp-bootstrap-gallery.php:128
+msgid "Item class"
+msgstr ""
+
+#: axp-bootstrap-gallery.php:140
+msgid "Caption tag"
+msgstr ""
+
+#: axp-bootstrap-gallery.php:152
+msgid "Caption class"
+msgstr ""
+
+#: axp-bootstrap-gallery.php:164
+msgid "Link class"
+msgstr ""
+
+#: axp-bootstrap-gallery.php:176
+msgid "Link custom parameters"
+msgstr ""
+
+#: axp-bootstrap-gallery.php:182
+msgid "Example: <code>rel=\"prettyPhoto[gallery]</code>"
+msgstr ""
+
+#: axp-bootstrap-gallery.php:188
+msgid "Image class"
+msgstr ""
+
+#: axp-bootstrap-gallery.php:194
+msgid "Default bootstrap: <code>img-responsive</code>"
+msgstr ""
+
+#: axp-bootstrap-gallery.php:200
+msgid "Column 1"
+msgstr ""
+
+#: axp-bootstrap-gallery.php:212
+msgid "Column 2"
+msgstr ""
+
+#: axp-bootstrap-gallery.php:224
+msgid "Column 3"
+msgstr ""
+
+#: axp-bootstrap-gallery.php:236
+msgid "Column 4"
+msgstr ""
+
+#: axp-bootstrap-gallery.php:248
+msgid "Column 5"
+msgstr ""
+
+#: axp-bootstrap-gallery.php:260
+msgid "Column 6"
+msgstr ""
+
+#: axp-bootstrap-gallery.php:272
+msgid "Column 7"
+msgstr ""
+
+#: axp-bootstrap-gallery.php:284
+msgid "Column 8"
+msgstr ""
+
+#: axp-bootstrap-gallery.php:296
+msgid "Column 9"
+msgstr ""
+
+#: axp-bootstrap-gallery.php:422
+msgid "The plugin is absolutely free. You can support the developer."
+msgstr ""
+
+#: axp-bootstrap-gallery.php:423
+msgid "Donate"
+msgstr ""
+
+#: axp-bootstrap-gallery.php:424
+msgid "Contact the author"
+msgstr ""
+
+#: axp-bootstrap-gallery.php:425
+msgid "Other plugins by author"
+msgstr ""
+
+#. Name of the plugin
+msgid "AXP Bootstrap Gallery"
+msgstr ""
+
+#. Description of the plugin
+msgid "Adds the markup Bootstrap for gallery"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://github.com/axp-dev/axp-bootstrap-gallery"
+msgstr ""
+
+#. Author of the plugin
+msgid "Alexander Pushkarev"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://github.com/axp-dev"
+msgstr ""
